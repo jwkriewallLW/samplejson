@@ -1,19 +1,17 @@
 {  
-    "employee1": {  
+    "employee": {  
         "name":       "Smith",   
         "salary":      4000,   
         "married":    false  
     },
-    "employee2": {  
+    "employee": {  
         "name":       "sonoo",   
         "salary":      68200,   
         "married":    true  
     },
-    "employee3": {  
+    "employee": {  
         "name":       "Larry",   
         "salary":      156000,   
         "married":    true  
     }  
-    
-    
 }  
